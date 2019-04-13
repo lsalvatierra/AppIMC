@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppIMC</string>
+    <string name="valetTalla">Ingrese su talla</string>
+    <string name="valetPeso">Ingrese su peso</string>
+    <string name="valbtnCalcular">Calcular IMC</string>
+    <string name="valtvTitulo">CALCULADORA DE IMC</string>
+    <string name="valtvResultado">Resultado IMC:</string>
+</resources>

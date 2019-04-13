@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTitulo">#b5e13513</color>
+    <color name="colorResultado">#d4f70025</color>
+
+    <color name="colorIMCBajo">#d4000000</color>
+    <color name="colorIMCNormal">#d424b42e</color>
+    <color name="colorIMCSobrePeso">#d4de9193</color>
+    <color name="colorObesidad1">#d4f45870</color>
+    <color name="colorObesidad2">#d4fa2c4b</color>
+    <color name="colorObesidad3">#d4f70025</color>
+
+</resources>
